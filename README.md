@@ -1,4 +1,4 @@
-<h1 align='center'><b>Map</b></h1>
+<h1 align='center'><b>Digital Map for Green Energy</b></h1>
 A simple grounds management platform, developed back-end with Node.js, express framework and MySQL database.  
 
 <br>
