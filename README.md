@@ -1,5 +1,5 @@
 <h1 align='center'><b>Digital Map for Green Energy</b></h1>
-A simple grounds management platform, developed back-end with Node.js, express framework and MySQL database.  
+A Green Energy management platform, developed back-end with Node.js, express framework and MySQL database.  
 
 <br>
 <br>
@@ -19,9 +19,9 @@ A simple grounds management platform, developed back-end with Node.js, express f
 
 # Features
 A few things you can do on Exhibition :
-- Browse grounds on Map
-- Manage grounds
-- manage crop,energy on the grounds 
+- Browse sites on Map
+- Manage sites
+- manage crop,energy on the sites 
 
 
 
